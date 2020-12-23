@@ -1,4 +1,4 @@
-package kata6;
+package kata6.app;
 
 import java.awt.Color;
 import java.awt.Graphics;

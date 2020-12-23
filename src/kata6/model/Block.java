@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
-import kata6.BlockPanel;
+import kata6.app.BlockPanel;
 
 public class Block {
     public static final int MAX = 7;
